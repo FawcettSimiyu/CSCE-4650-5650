@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🧠 CSCE 4650/5650 - Assignment 4 Help Available (Due: April 18, 2025 @ 11:59 PM)
+# 🧠 CSCE 4650/5650 - Assignment 4 Help Available
 
 Need help implementing symbol table management using **Java CUP & JFlex**?  
 I can **complete the full assignment** for you, including:
